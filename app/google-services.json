@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149416198974",
+    "firebase_url": "https://gyk-son-hafta.firebaseio.com",
+    "project_id": "gyk-son-hafta",
+    "storage_bucket": "gyk-son-hafta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149416198974:android:aae4017b4d43d147",
+        "android_client_info": {
+          "package_name": "com.hilal.myapplicationson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149416198974-b8ustsp9khm4fpepjij44vkdf6gqbs5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hilal.myapplicationson",
+            "certificate_hash": "90e01bc5a3165bb2c52622bd808f5072d96891e4"
+          }
+        },
+        {
+          "client_id": "149416198974-utkvo5jarrad5d5epgo6fpbdsh0urc9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBIQtmRmVzFgk03IMJuzomdOYs06BOGkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149416198974-utkvo5jarrad5d5epgo6fpbdsh0urc9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
